@@ -1,4 +1,4 @@
-"""yamtools : a set of tools for my personal needs.
+"""ymatools : a set of tools for my personal needs.
 """
 
 # Always prefer setuptools over distutils
@@ -14,11 +14,11 @@ with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='yamtools',
+    name='ymatools',
 
     version='0.1.0',
 
-    description='yamtools : a set of tools for my personal needs.',
+    description='ymatools : a set of tools for my personal needs.',
     long_description=long_description,
 
     url='https://github.com/ymauray/ymatools',
